@@ -4,7 +4,7 @@ public class HelloGit {
 	
 	public static void main(String[] args) {
 		
-
+		//tableau de string contenant les noms
 		String[] names = {"toto1","toto2","toto3","toto4","toto5","toto6","toto7","toto8"};
 		//ceci est un commentaire more comment here........
 		for (String string : names) {
