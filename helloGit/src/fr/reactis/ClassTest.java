@@ -1,5 +1,9 @@
 package fr.reactis;
 
+/**
+ * ceci est un commentaire pour la class
+ *
+ */
 public class ClassTest {
 
 	private String name;
