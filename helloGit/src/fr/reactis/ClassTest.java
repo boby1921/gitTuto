@@ -9,6 +9,13 @@ public class ClassTest {
 	public ClassTest() {
 	}
 
+	public ClassTest(String name, String prenom, Long age) {
+		super();
+		this.name = name;
+		this.prenom = prenom;
+		this.age = age;
+	}
+
 	public String getName() {
 		return name;
 	}
