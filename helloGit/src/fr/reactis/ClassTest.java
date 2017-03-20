@@ -13,6 +13,12 @@ public class ClassTest {
 	public ClassTest() {
 	}
 
+	/**
+	 * 
+	 * @param name
+	 * @param prenom
+	 * @param age
+	 */
 	public ClassTest(String name, String prenom, Long age) {
 		super();
 		this.name = name;
